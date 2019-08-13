@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^dev\.danielwakefield\.co\.uk$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.dev\.danielwakefield\.co\.uk$
+RewriteRule ^/?$ "https\:\/\/www\.dev\.danielwakefield\.co\.uk\/" [R=301,L]
+

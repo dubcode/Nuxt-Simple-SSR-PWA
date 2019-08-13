@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Montserrat-l';
+    src: url('Montserrat-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Montserrat-r';
+    src: url('Montserrat-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Montserrat-xb';
+    src: url('Montserrat-ExtraBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Fairplay';
+    src: url('PlayfairDisplay-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
